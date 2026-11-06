@@ -26,3 +26,6 @@ https://github.com/damiafuentes/DJITelloPy/blob/master/examples/record-video.py
 3. While you fly the drone, capture the raw data of the video stream using Wireshark.
 4. In Wireshark, this can be done by right clicking on a packet that is part of the stream and clicking Follow > UDP Stream.
 5. A window with the data stream should pop up. Change the “Show data as” field to “Raw” and click “Save As.”
+
+## Next
+The next step of this lab is disrupting the drone flight using Linux commands. The instructions are in `drone_disruption.md`
